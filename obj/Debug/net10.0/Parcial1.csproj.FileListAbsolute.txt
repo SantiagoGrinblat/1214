@@ -1,0 +1,14 @@
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/bin/Debug/net10.0/Parcial1
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/bin/Debug/net10.0/Parcial1.deps.json
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/bin/Debug/net10.0/Parcial1.runtimeconfig.json
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/bin/Debug/net10.0/Parcial1.dll
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/bin/Debug/net10.0/Parcial1.pdb
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.AssemblyInfoInputs.cache
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.AssemblyInfo.cs
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.csproj.CoreCompileInputs.cache
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.dll
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/refint/Parcial1.dll
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.pdb
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/Parcial1.genruntimeconfig.cache
+/Users/santiagosilva/Documents/UTN/Parcial1Programacion2/Parcial1/obj/Debug/net10.0/ref/Parcial1.dll
